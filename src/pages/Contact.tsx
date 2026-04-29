@@ -85,7 +85,7 @@ const ContactPage = () => {
                     { icon: Mail, title: "Email Us", detail: "hello@nexshiftmedia.com" },
                     { icon: Phone, title: "Call Us", detail: "+977 9818633814" },
                     { icon: MapPin, title: "Visit Us", detail: "Kathmandu, Nepal" },
-                    { icon: Clock, title: "Working Hours", detail: "Sun - Fri, 10:00 AM - 6:00 PM" },
+                    { icon: Clock, title: "Working Hours", detail: "Sun - Fri, 10:00 AM - 5:00 PM" },
                   ].map((item) => (
                     <div key={item.title} className="flex items-start gap-4">
                       <div className="bg-gradient-primary p-3 rounded-xl flex-shrink-0">
