@@ -117,7 +117,7 @@ const ContactPage = () => {
 
                       <button
                         type="button"
-                        onClick={() => window.open("https://facebook.com/nexshiftmedia", "_blank", "noopener,noreferrer")}
+                        onClick={() => window.open("https://www.facebook.com/profile.php?id=61577277295076", "_blank", "noopener,noreferrer")}
                         className="bg-card border border-border px-4 py-2 rounded-lg text-sm text-muted-foreground hover:text-primary hover:border-primary/30 transition-colors cursor-pointer"
                       >
                         Facebook
@@ -125,7 +125,7 @@ const ContactPage = () => {
 
                       <button
                         type="button"
-                        onClick={() => window.open("https://linkedin.com/company/nexshiftmedia", "_blank", "noopener,noreferrer")}
+                        onClick={() => window.open("https://www.linkedin.com/company/nexshift-media-events/", "_blank", "noopener,noreferrer")}
                         className="bg-card border border-border px-4 py-2 rounded-lg text-sm text-muted-foreground hover:text-primary hover:border-primary/30 transition-colors cursor-pointer"
                       >
                         LinkedIn
@@ -133,7 +133,7 @@ const ContactPage = () => {
 
                       <button
                         type="button"
-                        onClick={() => window.open("https://youtube.com/@nexshiftmedia", "_blank", "noopener,noreferrer")}
+                        onClick={() => window.open("https://www.youtube.com/@NexShiftMediaandEvents", "_blank", "noopener,noreferrer")}
                         className="bg-card border border-border px-4 py-2 rounded-lg text-sm text-muted-foreground hover:text-primary hover:border-primary/30 transition-colors cursor-pointer"
                       >
                         YouTube

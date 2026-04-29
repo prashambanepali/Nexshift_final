@@ -37,8 +37,9 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between px-6">
         <Link to="/" className="font-heading text-2xl font-bold">
-          <span className="text-gradient-primary">Nex</span>
-          <span className="text-foreground">Shift</span>
+        <img src="NexShift Logo (5).png" className="h-12 w-18" ></img>
+          {/* <span className="text-gradient-primary">Nex</span>
+          <span className="text-foreground">Shift</span> */}
         </Link>
 
         {/* Desktop */}
